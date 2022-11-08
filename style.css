@@ -124,3 +124,21 @@ body {
   display: block;
   margin: 0 auto;
 }
+
+.conteudo-principal-escrito-titulo2 {
+  font-family: 'Righteous', cursive;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 100px;
+  color: #ffffff;
+}
+
+.conteudo-principal-imagem2 {
+  display: flex;
+  margin: 0 auto;
+  height: 789px;
+  align-items: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  
+}
